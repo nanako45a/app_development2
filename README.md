@@ -44,4 +44,4 @@ MVPリリースまでに機能候補に記載した機能1~9を満たしたサ�
 その後、地図情報API（GoogleMap API等）を利用し、機能候補10の位置情報機能を追加する。
 
 ■ 画面遷移図
-https://www.figma.com/file/L5U91EVX2ycd0E1gv6tJvb/%E7%84%A1%E9%A1%8C?type=design&node-id=0%3A1&mode=design&t=Q4E21WOZIDzgHL5X-1
+https://www.figma.com/file/L5U91EVX2ycd0E1gv6tJvb/%E7%84%A1%E9%A1%8C?type=design&node-id=22%3A23&mode=design&t=qXcNytzqvCZmnfOh-1
